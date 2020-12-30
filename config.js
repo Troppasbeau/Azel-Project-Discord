@@ -6,8 +6,8 @@
 const token = ""; //your token
 const prefix = ";"; //your prefix
 const image = ""; //your image
-const color = ""//your color on https://htmlcolorcodes.com/fr/
-const nsfw = ""//ON or OFF
+const color = "";//your color on https://htmlcolorcodes.com/fr/
+const nsfw = "";//ON or OFF
 const premium_key = ""; //premium key
 
 //don't touch
